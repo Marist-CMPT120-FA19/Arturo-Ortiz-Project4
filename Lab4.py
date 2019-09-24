@@ -23,7 +23,4 @@ def main():
     greenlight.setOutline("black")
     greenlight.setFill("green")
     greenlight.draw(win)
-
-
-
 main()
